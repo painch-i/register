@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "painch-i",
+    "email": "ipainchan@outlook.com"
+  },
+
+  "target": {
+    "A": {
+       "name": "ismaël", 
+       "value": ""
+     }
+  },
+
+  "proxied": false
+}
